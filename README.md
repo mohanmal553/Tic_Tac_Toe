@@ -2,7 +2,7 @@
 
 In this app two player can play at a time.
  
-## Website Link :- mtictactoegames.netlify.app
+## Website Link :- https://mtictactoegames.netlify.app/
 
 ## Technology:-
 
